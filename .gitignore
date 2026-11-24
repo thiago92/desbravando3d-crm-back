@@ -1,0 +1,20 @@
+# Visual Studio e arquivos locais do usuário
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Saídas de compilação
+**/bin/
+**/obj/
+
+# Configuração local e segredos
+**/appsettings.Local.json
+**/appsettings.*.local.json
+*.pfx
+*.p12
+
+# Arquivos temporários
+*.tmp
+*.bak
